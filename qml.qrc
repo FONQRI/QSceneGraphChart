@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>qtquickcontrols2.conf</file>
+        <file>shaders/line.fsh</file>
+        <file>shaders/line.vsh</file>
+        <file>shaders/noisy.fsh</file>
+        <file>shaders/noisy.vsh</file>
+    </qresource>
+</RCC>
